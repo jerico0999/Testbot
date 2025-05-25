@@ -1,3 +1,4 @@
+#https://api.telegram.org/bot%3C7654148686:AAFy1Ka6EHk2s_VU89D6DdS9hysEC5FdCIM%3E/setWebhook?url=https%3A%2F%2Fyourapp.onrender.com%2Fwebhook%2F%3C7654148686:AAFy1Ka6EHk2s_VU89D6DdS9hysEC5FdCIM%3E
 import os
 
 # Set the environment variable to disable legacy support
